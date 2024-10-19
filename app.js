@@ -53,7 +53,25 @@
 
 /////////////// STRINGS ///////////////
 
-// 1. Concertination 
+// 1. Concatenation 
+
 // let firstName = "Moses";
 // let secondName = "Moses";
 // let fullName = firstName + " " + secondName;
+// let fullName = firstName.concat(secondName);
+
+// 2. Append 
+// firstName += "WebDev"
+// console.log(firstName);
+
+// 3. Length 
+// console.log(firstName.length);
+
+// 4. Cases 
+// console.log(firstName.toLowerCases())
+// console.log(firstName.toLUpperCases())
+
+// 5. Slice
+// console.log(firstName.slice(0, 1));
+
+// 6. split & Join 
