@@ -12,8 +12,17 @@ console.log(firstFavNum ** secondFavNum);
 //// Boolean True or False 
 // we have defined and Undefined
 
-// 2.
+// Exercise 2.
 let isJsProgrammingLanguage = true;
 let isJsHard = false;
 let favNumb = 7;
 console.log(favNumb + undefined)
+
+// OPERATORS
+// RELATIONAL | EQUALITY
+
+// Relational Operators
+console.log(10 > 10); // false
+console.log(10 < 10); // false
+console.log(10 >= 10); // true
+console.log(10 <= 10); // true
