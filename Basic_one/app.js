@@ -72,4 +72,4 @@
 // console.log(firstName.slice(0, 1));
 
 // 6. split & Join
-// console.log(firstName.split);
+// console.log(firstName.split());
