@@ -18,11 +18,11 @@
 // let favNumb = 7;
 // console.log(favNumb + undefined)
 
-//Comparision  OPERATORS
+///////////// Comparision  OPERATORS /////////////
 //--------------------------------------
-// RELATIONAL | EQUALITY
+///// RELATIONAL | EQUALITY ////////
 
-// Relational Operators(>, <, >=, <=)
+//////// Relational Operators(>, <, >=, <=) ///////
 // console.log(10 > 10); // false
 // console.log(10 < 10); // false
 // console.log(10 >= 10); // true
@@ -39,8 +39,8 @@
 // console.log(10 != 10);
 
 // Exercise 3.
-let firstFavNum = 7;
-let secondFavNum = 4;
+// let firstFavNum = 7;
+// let secondFavNum = 4;
 // console.log(firstFavNum > secondFavNum); // greater than
 // console.log(firstFavNum < secondFavNum); // lesser than
 // console.log(firstFavNum >= secondFavNum); // greater than| equal
@@ -49,3 +49,11 @@ let secondFavNum = 4;
 // console.log(firstFavNum == secondFavNum); // loose equal
 // console.log(firstFavNum !== secondFavNum); // strict not equal
 // console.log(firstFavNum != secondFavNum); // loose nt equals
+
+
+/////////////// STRINGS ///////////////
+
+// 1. Concertination 
+// let firstName = "Moses";
+// let secondName = "Moses";
+// let fullName = firstName + " " + secondName;
