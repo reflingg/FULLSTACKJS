@@ -13,24 +13,30 @@
 //   console.log("a is equal to b");
 // }
 // ------------------------
-
+// let time = 10;
+// let greeting;
+//
 // if (time < 10) {
 //     greeting = "Good morning";
+//      console.log(greeting);
 //   } else if (time < 20) {
 //     greeting = "Good day";
+//      console.log(greeting);
 //   } else {
 //     greeting = "Good evening";
+//      console.log(greeting);
 //   }
 
-//   let password;
+// Exercise ///
 
-//   if (password === 8) {
-//     console.log("Welcome");
-//   } else if (password <= 8) {
-//     console.log("Password is too short");
-//   } else if (password >= 8) {
-//     console.log("Too long password");
-//     console.log("Password should be 8 characters");
-//   } else {
-//     console.log("Please provide a password");
-//   }
+// let password;
+// if (password === 8) {
+//   console.log("welcome");
+// } else if (password <= 8) {
+//   console.log("Password is too short");
+// } else if (password >= 8) {
+//   console.log("Too Long Password");
+//   console.log("Password should be 8 characters");
+// } else {
+//   console.log("Please provide a password");
+// }
