@@ -18,10 +18,3 @@
 //   console.log(i, "Hello World");
 //   i++;
 // }
-
-//// While Infinite loop  /////
-let i = 0;
-while (i >= -1) {
-  console.log("hello: ", i);
-  i++;
-}

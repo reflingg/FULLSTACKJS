@@ -14,10 +14,3 @@
 //   console.log("Moses Olayinka", i);
 //   i++;
 // } while (i <= 400);
-
-/////////Infinite  DO WHILE Loop////////
-let i = 0;
-do {
-  console.log("Hello World", i);
-  i++;
-} while (i >= -1);

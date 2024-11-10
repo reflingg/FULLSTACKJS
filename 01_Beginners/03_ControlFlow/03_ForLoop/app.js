@@ -8,8 +8,3 @@
 // for (let i = 1; i <= 100; i++) {
 //   console.log("Moses WebDev", i);
 // }
-
-/// Infinite loop, DO NOT RUN IT ///////
-// for (let i = 1; i++; ) {
-//   console.log("hello", i);
-// }
