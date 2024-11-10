@@ -3,7 +3,7 @@
   "age": 30,
   "email": "john@example.com",
   "isSubscribed": true,
-  "hobbies": ["Reading", "Running", "Cooking"],
+  "hobbies": ["Reading", "Running", "Coding"],
   "address": {
     "city": "New York",
     "zipCode": "10001"
