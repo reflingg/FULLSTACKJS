@@ -1,15 +1,18 @@
-// In JavaScript, you can work with dates using the built-in Date object. The Date object allows you to create, manipulate, and format dates and times.
+// In JavaScript, you can work with dates using the built-in Date object.
+// The Date object allows you to create, manipulate, and format dates and times.
 
 // Creating a Date Object:
-// -> You can create a new Date object by calling the Date constructor with or without arguments. If no arguments are provided, it will create a Date object representing the current date and time.
+// -> You can create a new Date object by calling the Date constructor with or without arguments.
+// If no arguments are provided, it will create a Date object representing the current date and time.
 
 // ------------------------------------
 // Create a Date object representing the current date and time
-const currentDate = new Date();
+// const currentDate = new Date();
 // console.log(currentDate);
 
-// Create a Date object for a specific date and time (year, month, day, hours, minutes, seconds, milliseconds)
-const specificDate = new Date(2023, 6, 25, 12, 30, 0, 0);
+// Create a Date object for a specific date and time
+// (year, month, day, hours, minutes, seconds, milliseconds)
+// const specificDate = new Date(2024, 11, 11, 12, 30, 0, 0);
 // console.log(specificDate);
 
 // ------------------------------------
@@ -17,6 +20,7 @@ const specificDate = new Date(2023, 6, 25, 12, 30, 0, 0);
 // ------------------------------------
 // Getting Different Parts of the Date:
 // You can extract various parts of a Date object, such as the year, month, day, hours, minutes, seconds, etc.
+
 // const date = new Date();
 
 // const year = date.getFullYear();
@@ -39,7 +43,8 @@ const specificDate = new Date(2023, 6, 25, 12, 30, 0, 0);
 
 // ------------------------------------
 // Formatting Dates:
-// You can format dates to display them in a more readable format using various methods.
+// You can format dates to display them in a more readable format
+//using various methods.
 
 // const date = new Date();
 
@@ -51,15 +56,17 @@ const specificDate = new Date(2023, 6, 25, 12, 30, 0, 0);
 
 // ------------------------------------
 // Working with Time:
-// You can perform operations on dates, such as adding or subtracting time.
-const date = new Date();
+// You can perform operations on dates,
+// such as adding or subtracting time.
 
-// Add 1 day to the current date
-date.setDate(date.getDate() + 1);
+// const date = new Date();
 
-// Subtract 2 hours from the current time
-date.setHours(date.getHours() - 2);
+// // // Add 1 day to the current date
+// date.setDate(date.getDate() + 1);
 
-console.log(date);
+// // // Subtract 2 hours from the current time
+// date.setHours(date.getHours() - 2);
+
+// console.log(date);
 
 // ------------------------------------
