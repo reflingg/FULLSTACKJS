@@ -26,10 +26,10 @@ console.log(symbol1);
 console.log(typeof symbol1);
 console.log(symbol1 === symbol2);
 
-const huxn = {};
-huxn.age = 17;
-huxn["gender"] = "male";
-huxn["female"] = "female";
-huxn[symbol1] = "Alex";
-huxn[symbol2] = "John";
-console.log(huxn);
+const Moses = {};
+Moses.age = 17;
+Moses["gender"] = "male";
+Moses["female"] = "female";
+Moses[symbol1] = "Alex";
+Moses[symbol2] = "John";
+console.log(Moses);
